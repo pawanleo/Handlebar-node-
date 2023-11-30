@@ -1,1 +1,1 @@
-# Node application it use of Handlebar as template engine
+# Node application with use of Handlebar as template engine
